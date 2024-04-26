@@ -1,7 +1,6 @@
 Scenario 1: Chennai to Bangalore
 Scenario 2: bangalore to kerala
-<<<<<<< HEAD
+                    // update by sujith
 Scenario 3: goa to punjab
-=======
-Scenario 3: kerala to punjab
->>>>>>> TrainMMT
+                     // updated by sam
+Scenario 5: kerala to punjab
