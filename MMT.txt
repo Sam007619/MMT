@@ -4,3 +4,5 @@ Scenario 2: bangalore to kerala
 Scenario 3: goa to punjab
                      // updated by sam
 Scenario 5: kerala to punjab
+
+Scenario 6: Cancelled
